@@ -101,3 +101,57 @@ Este proyecto demuestra que:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+📊 **Una señal técnica sola… puede no ser suficiente**
+
+El RSI > 70 suele indicar sobrecompra.
+Pero la verdadera pregunta es:
+
+👉 ¿Es igual de confiable sin importar el contexto?
+
+💡 **Insight clave:**
+La efectividad del RSI cambia completamente cuando lo combinamos con la **fuerza del sector**.
+
+* RSI alto + sector fuerte → la tendencia puede continuar
+* RSI alto + sector débil → mayor probabilidad de reversión
+
+---
+
+📈 **¿Qué analicé?**
+
+* Señales individuales de RSI > 70
+* RSI promedio del sector en ese mismo momento
+* Rendimiento a 5 días post-señal
+* Comparación entre escenarios
+
+---
+
+🧠 **¿Cómo interpretarlo?**
+
+* 🔥 **RSI Alto + Sector Fuerte**
+  → Momentum alineado → posible continuación
+
+* ⚠️ **RSI Alto + Sector Débil**
+  → Desacople → mayor probabilidad de caída
+
+---
+
+⚡ **¿Por qué importa?**
+
+Porque demuestra algo clave:
+
+👉 El contexto transforma completamente una señal.
+
+Esto permite:
+
+* Reducir falsos positivos
+* Mejorar timing de entrada/salida
+* Construir estrategias más robustas
+
+---
+
+📌 Pregunta para la comunidad:
+¿Usan indicadores técnicos de forma aislada… o siempre los combinan con contexto sectorial?
+
+#QuantFinance #Trading #DataScience #StockMarket #RSI #Momentum #Alpha #Analytics
